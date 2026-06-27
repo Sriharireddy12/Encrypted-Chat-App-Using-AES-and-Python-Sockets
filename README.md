@@ -24,7 +24,7 @@ The server also maintains a log of all decrypted messages in `chat.log` for audi
 
 ---
 
-# 📂 Screenshots
+# 📂 Images
 
 ### Project Setup
 
