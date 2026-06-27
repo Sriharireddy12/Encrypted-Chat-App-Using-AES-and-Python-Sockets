@@ -352,7 +352,7 @@ Entry-Level Cybersecurity Professional | SOC Analyst | Network Security | Linux 
 GitHub:
 https://github.com/Sriharireddy12
 
-### LinkedIn:https://www.linkedin.com/in/srihari-reddy-kanumuri-1322b0293/
+### LinkedIn: https://www.linkedin.com/in/srihari-reddy-kanumuri-1322b0293/
 
 # ⭐ Support
 
