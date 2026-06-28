@@ -26,31 +26,38 @@ The server also maintains a log of all decrypted messages in `chat.log` for audi
 
 # 📂 Images
 
-### Project Setup
+### Project Setup  <img width="1918" height="878" alt="Screenshot_2026-06-24_13_11_19 (copy 1)" src="https://github.com/user-attachments/assets/a0afd449-acd9-4dc8-b5eb-d6344cba116f" />
+
 
 Create project directory, virtual environment and install dependencies.
 
-### AES Encryption Module
+### AES Encryption Module  <img width="1918" height="878" alt="Screenshot_2026-06-24_13_17_43 (copy 1)" src="https://github.com/user-attachments/assets/3969055a-9ff4-4252-989d-cd93453716e0" />
+
+
 
 Implementation of AES encryption and decryption using the PyCryptodome library.
 
-### Server Implementation
+### Server Implementation        <img width="1918" height="878" alt="Screenshot_2026-06-24_13_18_02" src="https://github.com/user-attachments/assets/1eb0f910-39d4-40f1-8cb7-ad4b714ed5fe" />
+
 
 Python socket server responsible for receiving and decrypting encrypted messages.
 
-### Client Implementation
+### Client Implementation     <img width="1918" height="878" alt="Screenshot_2026-06-24_13_19_34" src="https://github.com/user-attachments/assets/59e63499-fd6e-4762-b7fa-993a731f8deb" />
+
 
 Client encrypts every message before sending it to the server.
 
-### Server Execution
+### Server Execution         <img width="1918" height="228" alt="Screenshot_2026-06-24_13_23_15" src="https://github.com/user-attachments/assets/2f5e846a-5e3a-4c02-857f-0faeb12481ba" />
 
 Server successfully starts and waits for incoming client connections.
 
-### Client Execution
+### Client Execution             <img width="1918" height="878" alt="Screenshot_2026-06-24_13_23_34" src="https://github.com/user-attachments/assets/0bd79fdc-630b-49c0-8386-defe8c4aba15" />
+
 
 Client connects to the server and securely transmits encrypted messages.
 
-### Chat Logging
+### Chat Logging           <img width="1918" height="878" alt="Screenshot_2026-06-24_13_37_07" src="https://github.com/user-attachments/assets/f862a6ed-ff95-4d6f-8cc6-6cc73eaf1a05" />
+
 
 All received messages are automatically stored in `chat.log`.
 
